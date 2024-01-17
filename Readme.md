@@ -23,7 +23,12 @@ This is a simple website that allows users to view public repositories of a GitH
 1. Open the `index.html` file in a web browser.
 2. Enter a valid GitHub username in the search bar.
 3. Click the "Get Repositories" button to fetch and display the user's repositories.
-   
+
+
   ![Screenshot from 2024-01-18 02-46-54](https://github.com/Prasad103/GitHub-Public-Repos-Display/assets/119681991/6c80d3b2-9dee-48d6-b7dc-0574f653f009)
+
+
+
+https://github.com/Prasad103/GitHub-Public-Repos-Display/assets/119681991/81954d71-db0d-4a1f-879c-aa98e4d17fac
 
 
